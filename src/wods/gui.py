@@ -14,9 +14,10 @@ from urllib.request import urlopen
 import os
 from PIL import Image, ImageTk
 import sys
-from wods.src.database import Database
+from src.wods.database import Database
+from pathlib import Path
 
-IMAGE_DIR = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "images")
+IMAGE_DIR = Path(__file__).resolve().parents[2] / "images"
 
 class Gui:
     #------------------File -> Exit Method------------------#

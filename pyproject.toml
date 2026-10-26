@@ -9,10 +9,9 @@ requires-python = ">=3.11"
 dependencies = [
     "pandas",
     "matplotlib",
-    "tkinter",
-    "sqlite3",
     "numpy",
-    "scipy"
+    "scipy",
+    "tkintermapview"
 ]
 
 [tool.setuptools.packages.find]

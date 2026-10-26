@@ -1,5 +1,5 @@
 # imports Tkinter Code
-from wods.src.gui import Gui
+from src.wods.gui import Gui
 
 # calls main function from GUI code
 def main():
