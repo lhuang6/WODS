@@ -1,9 +1,0 @@
-Metadata-Version: 2.4
-Name: wods
-Version: 1.0.0
-Requires-Python: >=3.11
-Requires-Dist: pandas
-Requires-Dist: matplotlib
-Requires-Dist: numpy
-Requires-Dist: scipy
-Requires-Dist: tkintermapview
