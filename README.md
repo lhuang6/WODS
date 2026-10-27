@@ -49,5 +49,5 @@ python -m pip install -e .
 ### Run
 
 ```bash
-python -m observations
+python -m wods
 ```
