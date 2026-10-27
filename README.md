@@ -18,7 +18,7 @@ and converts them into SQLite databases. This was created in the Spring of 2026 
 
 ![Windspeed Graph](images/screenshots/graph_wspd.png)
 
-![Temperature v. Dewpoint Graph](images/screenshots/tempdewpoint.png)
+![Temperature v. Dewpoint Graph](images/screenshots/graph_tempdewpoint.png)
 
 ![Pressure Graph](images/screenshots/graph_pressure.png)
 
